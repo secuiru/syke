@@ -23,7 +23,7 @@ function App() {
       </div>
       <div>
       <label>Heart rate limits</label>
-      <output>{Kilometrit}</output>
+      <output>{heart}</output>
       </div>
       <button>Laske</button>
       </form>
