@@ -19,7 +19,7 @@ function App() {
       <form onSubmit={laske}>
       <div>
         <label>Age</label>
-        <input value={mailit} onChange={e => setMailit(e.target.value)}/>
+        <input value={heart} onChange={e => setMailit(e.target.value)}/>
       </div>
       <div>
       <label>Heart rate limits</label>
